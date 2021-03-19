@@ -1,5 +1,5 @@
 # Tableau Challenge
-This homework assignment asked the student to imagine themselves as lead analyst for New York Citi bike.  The task was to use tableau to analyze the data and present:
+I used tableau to analyze the data and present:
 •	4-10 Visualizations
 •	2 Dashboards
 •	A city map 
